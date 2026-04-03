@@ -1,0 +1,2 @@
+# CRIPTOSEARCH
+Mineirar os minerios
